@@ -1,0 +1,63 @@
+so git init inicijalizirav prazen repozitorium vo SI_2023_lab1_
+
+koristam git notepad README.md za kreiranje nov readme file
+
+so git remote add origin https.. go povrzuvam lokalniot so oddalecheniot repozitorium 
+
+so git add READE.md go dodava readme fileot 
+
+so git commit -m "Initial commmit" go commituvam fileot 
+
+so git add SILab1.ava dodavam nov aa ffile 
+
+na istoit pravat git comit -m "add java class" 
+
+pravam git push --all za da gi sinhroniziram site na glavniot repozitrium 
+
+napraviv granki bug1, bug2 i bug3 so git branch 'ime na granka'
+
+potoa gi izbrisha so git branch -d 'ime'  bidejki primetiv deka po greshka sum go iskopirala kodot dva pati vo java kodot 
+
+za da ja ispraam taa greshka go izbrisha vo java fileot kodot shto ne i treba i napraviv commit i push preku master 
+
+potoa povtorno gi dodadov grankite so git branch bug1
+
+pa git branch bug2
+
+pa git branch bug3
+
+potoa napraviv git checkout bug1 za da se prefrlam na grankata bug1
+
+gi napraiv soodvetnite promenio java kodot i napraviv git add SILab1.java 
+
+potoa napraviv git commit - "Fix wrong loop for reading" 
+
+se prefrliv na grankata git checkout bug2 
+
+gi napraviv soodvetnite promeni vo kodot i napraviv git add SILab1.java 
+
+napraviv git commit - "Fix wrong condition in filterOddNumbers"
+
+se prefrliv na bug3 so git checkout bug3
+
+gi napraviv soodvetnite promeni i napraviv git commit - "fix method sumEvenNubbers"
+
+se prefrliv na master so checkout master 
+
+napraviv git merge bug1 za da gi spojam grankite 
+
+potoa napraviv git merge bug2 za da a spojam i taa granka 
+
+potoa se prefliv na bug3 so git chekout bug3
+
+potoa napraviv git rebase master za da ja updateiram grankata so dosegashnite promeni 
+
+se prefrliv na master so git checkout master 
+
+potoa gi spoiv master i bug3 so git merge bug3
+
+na kraj gi sinhroniziav site so git push --all --force
+
+
+
+

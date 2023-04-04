@@ -1,0 +1,42 @@
+commit edf577aa36c30a8900a6aba5686ed6047b6e233a
+Author: Jana Zografska <jana.zografska@students.finki.ukim.mk>
+Date:   Tue Apr 4 21:15:15 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 4c4ba7531b51f5844ceb944d7129578401974c96
+Merge: 7db58fb 5cb0289
+Author: Jana Zografska <jana.zografska@students.finki.ukim.mk>
+Date:   Tue Apr 4 21:20:57 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 5cb02890aa9b0f034e32b752f0f9f072edacfea2
+Author: Jana Zografska <jana.zografska@students.finki.ukim.mk>
+Date:   Tue Apr 4 21:13:10 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 7db58fba944c9d21fd165c4c639610f8e1c22c45
+Author: Jana Zografska <jana.zografska@students.finki.ukim.mk>
+Date:   Tue Apr 4 21:07:35 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 1bb9b99c9de86be29aaca0091cbf2530084da9f1
+Author: Jana Zografska <jana.zografska@students.finki.ukim.mk>
+Date:   Tue Apr 4 20:58:59 2023 +0200
+
+    Remove duplicate class declaration
+
+commit 8a8c2cb9853cbac1bdd26f3ea02cb6bbb9c66126
+Author: Jana Zografska <jana.zografska@students.finki.ukim.mk>
+Date:   Tue Apr 4 20:33:28 2023 +0200
+
+    Add java class
+
+commit a6880accd5a5113b58202cdcd99480f1e7662a32
+Author: Jana Zografska <jana.zografska@students.finki.ukim.mk>
+Date:   Tue Apr 4 20:21:39 2023 +0200
+
+    Initial commmit
